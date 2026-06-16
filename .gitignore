@@ -1,0 +1,25 @@
+# .gitignore — archivos que Git debe ignorar
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Linux
+.directory
+
+# Editores e IDEs
+.vscode/
+.idea/
+
+
+# Sistemas de archivos de red
+# Metadatos que crean algunos sistemas NFS/SMB.
+.AppleDouble
+.LSOverride
