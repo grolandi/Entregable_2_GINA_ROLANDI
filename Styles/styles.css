@@ -115,30 +115,30 @@ figcaption {
 }
 
 /* ---- SECCIÓN CONTACTO ---- */
-#contacto {
+.contacto {
     text-align: center;
 }
 
 /* Contenedor de redes sociales con lista alineada a la izquierda
    dentro de un bloque centrado */
-#redes {
+.redes {
     margin-top: 20px;
 }
 
-#redes ul {
+.redes ul {
     display: inline-block;
     text-align: left;
     line-height: 1.5rem;
 }
 
 /* Links de redes en color chocolate para mantener la paleta cálida */
-#redes a {
+.redes a {
     text-decoration: none;
     color: rgb(211, 101, 22);
 }
 
 /* La imagen de contacto no necesita borde; anula el estilo global de img */
-#contact-img {
+.contact-img {
     border: none;
 }
 
